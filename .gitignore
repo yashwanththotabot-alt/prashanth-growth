@@ -1,6 +1,12 @@
 # Agent configuration files (LOCAL ONLY - NOT pushed)
-*.md
-!.gitignore
+# These files stay in prashanth-agent/, not pushed to GitHub
+SOUL.md
+USER.md
+config.md
+message-templates.md
+IDENTITY.md
+
+# Editor/OS files
 .DS_Store
 .vscode/
 *.swp
